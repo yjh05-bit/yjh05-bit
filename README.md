@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 my name is jae hawn, I'm from Korea, This is my first repository,.
 
 <!--
 **yjh05-bit/yjh05-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
